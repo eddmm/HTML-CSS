@@ -1,0 +1,16 @@
+Autor:Eduardo Moreno Marinho
+Essas anotações são referente a formação HTML e CSS da Alura, tendo em vista que já possuo um conhecimento prévio de Desenvolvimento WEB, os primeiros modulos possivelmente terão poucas anotações
+----------------------------------------------------------------------------------------------------
+									ANOTAÇOES CURSO HTML E CSS
+----------------------------------------------------------------------------------------------------
+
+html(hyper text markup language) é uma linguagem de marcação de tezxto, ou seja , não é uma lingaugem de programação, portanto doferente de linguagens como python e java o html é uma linguagem que não precisa ser compilada, basta abrir em um navegador para que o arquivo e as tags sejam interpretadas da forma que se deseja
+
+<!DOCTYPE html>
+essa tag serve para identificar o arquivo como uma pagina html
+
+no front end se utilida duas outras tecnologias para auxiliar no desenvolvimento das paginas, o css e javascript
+
+
+
+
