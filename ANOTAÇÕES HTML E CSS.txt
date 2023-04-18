@@ -21,7 +21,13 @@ os comandos em html funcionam com chaves(<>), com essas chaves é possivel imple
 <body> - cria o corpo da pagina, onde ficará todo o escopo do projeto
 <html> - é o comando inicial para se criar uma pagina html
 <title> - coloca um titulo na aba da pagina do navegador
-etc...
+
+<meta>
+
+Define metadados, ou seja, informações sobre dados de um documento HTML. As <meta> tags vão dentro do elemento<head>
+e são usadas para especificar o conjuntode caracteres, o autor do documento, as configurações da janela de visualização etc.
+
+
 
 o comando img adiciona ima imagem no corpo da pagina, src é um padrão para indicar aonde esta a imagem a ser exibida na pagina, alt adiciona uma descrição na imagem, se a imagem ficar off ou se posicionar o mouse em cima será esse texto que aparecerá
 
