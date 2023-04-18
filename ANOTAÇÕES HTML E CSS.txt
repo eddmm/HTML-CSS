@@ -11,6 +11,22 @@ essa tag serve para identificar o arquivo como uma pagina html
 
 no front end se utilida duas outras tecnologias para auxiliar no desenvolvimento das paginas, o css e javascript
 
+para rodar as paginas sem precisar ficar atualizando instale o live server no seu vs code
 
+os comandos em html funcionam com chaves(<>), com essas chaves é possivel implementar palavras reservadas pela linguagem para editar o texto da pagina
+
+<p> - cria um paragrafo
+<i> - deixa o texto em italico
+<table> - cria uma tabela
+<body> - cria o corpo da pagina, onde ficará todo o escopo do projeto
+<html> - é o comando inicial para se criar uma pagina html
+<title> - coloca um titulo na aba da pagina do navegador
+etc...
+
+o comando img adiciona ima imagem no corpo da pagina, src é um padrão para indicar aonde esta a imagem a ser exibida na pagina, alt adiciona uma descrição na imagem, se a imagem ficar off ou se posicionar o mouse em cima será esse texto que aparecerá
+
+
+
+https://www.figma.com/file/4EKKCbr5rS93RWP7kRjXIz/Portfolio---Curso-1?node-id=0%3A1&t=l5RuWCe75yFNoWEr-0
 
 
