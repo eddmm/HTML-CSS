@@ -48,3 +48,13 @@ enquanto o html é uma linguagem de formatação de texto o css é uma linguagem
 
 css -cascading stile sheets
 
+no css é possivel alterar as caracteristicas dos itens euq estão entre tags especificas, para isso basta colocar o nome da tag seguido de {}, assim colocando os atributos dentro de colchetes
+
+body{
+    background-color: black;
+    color: white; /* altera a cor do texto*/
+}
+
+
+
+no site https://color.adobe.com/pt/create/color-wheel é possivel ver as cores qua combinam entre si
